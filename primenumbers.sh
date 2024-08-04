@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 <<comm
-This program finds prime numbers
-from 1 to user input.
-complexity is O(n2)
+Written by Andrew Lee
+Prime number calculator
+Complexity is O(n2)
 comm
 chek() {
   local flag=0
